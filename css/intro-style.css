@@ -43,7 +43,9 @@
   font-family: "Heebo", sans-serif;
   font-size: 3rem;
 }
-
+.text {
+  text-align: center;
+}
 .hide {
   background:rgb(29, 28, 28);
   overflow: hidden;
