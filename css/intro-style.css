@@ -36,18 +36,13 @@
   height: 100%;
   transform: translateY(100%);
   z-index: 999;
+  text-align: center;
 }
 
 .intro-text {
   color: rgb(233, 233, 233);
   font-family: "Heebo", sans-serif;
   font-size: 3rem;
-}
-.autor {
-  text-align: center;
-  color:white;
-  display:flex;
-  justify-content: flex-end;
 }
 .hide {
   background:rgb(29, 28, 28);
